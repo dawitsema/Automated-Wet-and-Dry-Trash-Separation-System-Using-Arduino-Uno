@@ -115,19 +115,44 @@ GND           |    Common Ground
    - Check Serial Monitor for calibration status
    - Try recalibrating with a different dry item
 
+## Academic Information
+
+**University:** Addis Ababa Science and Technology University (AASTU)
+
+**Course Instructor:** Candidate Professor Kassahun
+
+## Team Members
+
+| Name              | ID Number   |
+| ----------------- | ----------- |
+| Dawit Sema        | ETS 0455/14 |
+| Dawit Berhanu     | ETS 0457/14 |
+| Delal Mohammad    | ETS 0482/14 |
+| Eden Melaku       | ETS 0496/14 |
+| Eyerusalem Kidane | ETS 0574/14 |
+| Gelila Nebiyu     | ETS 0690/14 |
+| Hanna Abdiyu      | ETS 0728/14 |
+
+## Acknowledgments
+
+- **Course Instructor:** Candidate Professor Kassahun for his guidance and expertise
+- **University:** Addis Ababa Science and Technology University (AASTU) for providing the academic environment and resources
+- **Team Members:** All contributors listed above for their dedication and collaborative work
+- **Original Project:** Based on the work by dawitsema
+- **Arduino Community:** For their support and resources
+
 ## Contributing
 
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
+This project was developed as a collaborative effort by the team members listed above. While the project is open source, we encourage anyone interested in contributing to:
+
+- Submit issues for any bugs or improvements
+- Fork the repository for personal modifications
+- Create pull requests for any enhancements
+- Maintain proper attribution to the original team and university
 
 ## License
 
 This project is open source and available under the MIT License.
-
-## Acknowledgments
-
-- Original project by dawitsema
-- Arduino community for support and resources
-- Contributors and testers
 
 ## Contact
 
