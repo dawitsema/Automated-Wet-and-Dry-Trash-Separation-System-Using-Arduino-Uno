@@ -138,7 +138,7 @@ GND           |    Common Ground
 - **Course Instructor:** Candidate Professor Kassahun for his guidance and expertise
 - **University:** Addis Ababa Science and Technology University (AASTU) for providing the academic environment and resources
 - **Team Members:** All contributors listed above for their dedication and collaborative work
-- **Original Project:** Based on the work by dawitsema
+- **Original Project:** Based on the Leadership of Eden Melaku
 - **Arduino Community:** For their support and resources
 
 ## Contributing
